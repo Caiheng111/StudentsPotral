@@ -1,3 +1,6 @@
+## Project Information
+Learning how to create a web database app in ASP.NET Core.
+
 ## Table of Contents
 * Create: Add new records to the database by filling out the required fields and submitting the form.
 * Read: View existing records in the database by navigating to the appropriate pages or using search functionality.
